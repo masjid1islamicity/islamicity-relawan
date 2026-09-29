@@ -1,0 +1,6 @@
+{
+  "name": "Islamicity Relawan",
+  "description": "Platform cerdas relawan dan inisiatif sosial berbasis nilai keislaman dengan Kurikulum Relawan berjenjang, kuis uji kompetensi syariah & poin XP, modul Sedekah Subuh, pengingat fajar harian, pelacakan dampak real-time, verifikasi komunitas, integrasi zakat digital terenkripsi, dan dasbor analitik transparan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
